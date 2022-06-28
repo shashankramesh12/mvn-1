@@ -1,0 +1,20 @@
+package com.tyss.optimize.nlp.util;
+
+public enum NlpResponseEnum {
+	
+	FILE,
+	WEBELEMENT,
+	LOCATION,
+	POINT,
+	RECTANGLE,
+	DIMENSION,
+	JSONOBJECT,
+	LIST,
+	SET,
+	CONNECTION,
+	DB,
+	GRIDFSDBFILE,
+	DBOBJECT,
+	BASICDBOBJECT,
+	RESULTSET
+}
